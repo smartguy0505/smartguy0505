@@ -48,26 +48,6 @@ class AIEngineer:
 - **AI agents** — turning repetitive workflows into intelligent systems
 - **Engineering** — shipping clean, testable, maintainable software
 
-## GitHub activity
-
-<div align="center">
-  <a href="https://github.com/smartguy0505">
-    <img src="https://img.shields.io/github/followers/smartguy0505?label=Followers&style=for-the-badge&color=6e40c9" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/smartguy0505?tab=repositories">
-    <img src="https://img.shields.io/github/public-repos/smartguy0505?label=Public%20Repos&style=for-the-badge&color=238636" alt="Public repositories">
-  </a>
-  <a href="https://github.com/smartguy0505?tab=stars">
-    <img src="https://img.shields.io/github/stars/smartguy0505?label=Stars&style=for-the-badge&color=f59e0b" alt="GitHub stars">
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/smartguy0505?tab=overview">
-    <strong>View my full GitHub activity →</strong>
-  </a>
-</p>
-
 ## Let's connect
 
 Have an interesting AI idea, a useful problem, or a project worth building?
