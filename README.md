@@ -52,6 +52,8 @@ class AIEngineer:
 
 Have an interesting AI idea, a useful problem, or a project worth building?
 
+- 💬 Telegram: [@richard0118](https://t.me/richard0118)
+
 <div align="center">
 
 **Explore my repositories and follow the journey.**
